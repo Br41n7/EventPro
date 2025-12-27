@@ -1,0 +1,7 @@
+{
+  "name": "EventPro Management",
+  "description": "A comprehensive event planning management system with AI-driven event ideation, task tracking, and financial analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
